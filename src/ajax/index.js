@@ -1,5 +1,4 @@
-import apiM from './api'
-import requestM from './request'
-
-export const api = apiM;
-export const request = requestM;
+import Api from './api'
+import Fetch from './fetch'
+export const api = Api;
+export const fetch = Fetch;
