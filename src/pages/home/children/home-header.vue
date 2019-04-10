@@ -14,7 +14,8 @@
 </template>
 <script>
 export default{
-    name:'home-header'
+    name:'home-header',
+    
 }
 
 </script>
@@ -22,7 +23,7 @@ export default{
 
 <style scoped lang="scss">
 .home-header{
-      width: 100%;
+    width: 100%;
     height: 44px;
     position: absolute;
     left: 0;
