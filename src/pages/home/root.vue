@@ -4,6 +4,7 @@
     <!--首页头部-->
     <home-header></home-header>
     <home-menu v-model="selectMenu"></home-menu>
+	<img src="//i8.mifile.cn/v1/a1/4f1714fb-fdfa-31fb-1c04-97a84de9b896.webp?w=1080&h=540&bg=A4283D" />
     </div>
 
 

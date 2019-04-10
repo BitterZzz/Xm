@@ -13,10 +13,8 @@
 
 </template>
 <script>
-import {mapState} from 'vuex'
 export default{
-    name:'home-header',
-    
+    name:'home-header'
 }
 
 </script>

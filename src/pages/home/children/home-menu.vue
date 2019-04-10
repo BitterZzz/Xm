@@ -43,7 +43,6 @@
 </template>
 <script>
 import LyTab from 'ly-tab'
-import {mapState} from 'vuex'
 export default {
     name: 'home-menu',
     components:{
